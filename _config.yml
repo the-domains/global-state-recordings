@@ -1,7 +1,7 @@
 name: Global State Recordings
 favicon: null
-layout_spectrum: 0.98903
-typography_spectrum: 0.45959
+layout_spectrum: 0.7401161498855799
+typography_spectrum: 0.49756259587593377
 title: Music For The Discerning Dance Music Lover
 author:
   name: Ollie Jaye
@@ -19,13 +19,13 @@ opengraph:
   appId: '707685422641773'
 color:
   brandColors:
-    - '#000000'
-    - '#fffcf6'
-    - '#464847'
-    - '#d0d0d0'
-    - '#9b9b9b'
-  brandStrength: 0.08894333033822477
-  lightness: 0.6160114405211061
-  saturation: 0.4560425023082644
-  rhythmicContrast: 0.5603673555888236
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+  brandStrength: 0.18506613769568503
+  lightness: 0.7433414070401341
+  saturation: 0.32523649325594306
+  rhythmicContrast: 0.02621616260148585
 purpose: []
