@@ -1,0 +1,14 @@
+layout_spectrum: 0.29100914928130805
+typography_spectrum: 0.8728797880467027
+color:
+  brandStrength: 0.08894333033822477
+  lightness: 0.6160114405211061
+  saturation: 0.4560425023082644
+  rhythmicContrast: 0.5603673555888236
+  brandColors:
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
+name: Global State Recordings
