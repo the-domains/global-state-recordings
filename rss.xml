@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Global State Recordings]]></title>
         <description><![CDATA[Global State Recordings]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/global-state-recordings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 16:28:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 01 Jun 2016 16:29:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/global-state-recordings/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GSR048 : Paul Gallagher - 2+2=5 (Original Mix)]]></title>
+            <description><![CDATA[<article><h1>GSR048 : Paul Gallagher - 2+2=5 (Original Mix)</h1><p>Listen to GSR048 : Paul Gallagher - 2+2=5 (Original Mix) by Global State Recordings on hearthis.at -</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2568e22d6d2e816378fb9f8a0b7f3f61348a3896.jpg"></article>]]></description>
+            <link>https://hearthis.at/globalstate/gsr048-paul-gallagher-225-original-mix/</link>
+            <guid isPermaLink="false">86f3d197-2b61-4d47-8025-9eedf022a2f6</guid>
+            <pubDate>Wed, 01 Jun 2016 16:29:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ollie Jaye & Toryn D feat. Bethanie - Tears Will Fall by Global State Recordings]]></title>
             <description><![CDATA[<article><h1>Ollie Jaye & Toryn D feat. Bethanie - Tears Will Fall by Global State Recordings</h1><p>Forthcoming......</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5f6815fd169c1e80629fb0805740d88aa5e8f90.jpg"></article>]]></description>
