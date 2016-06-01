@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Music For The Discerning Dance Music Lover]]></title>
         <description><![CDATA[Music For The Discerning Dance Music Lover]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/global-state-recordings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 18:39:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 01 Jun 2016 18:42:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/global-state-recordings/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SeenOne feat. Crystal Blakk - Predator (Glynn Alan & Dave Wright Remix) by Global State Recordings]]></title>
+            <description><![CDATA[<article><h1>SeenOne feat. Crystal Blakk - Predator (Glynn Alan & Dave Wright Remix) by Global State Recordings</h1><p>Nick Rowland returns in his new guise SeenOne & delivers a track that could go all the way. As usual, he delivers his crisp production sound & an unnerving knack of writing effective hook lines that stick in your head for weeks & this track is no exception!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b93bebd641db0345361926ba4ed5e081d14f59ca.jpg"></article>]]></description>
+            <link>https://soundcloud.com/global-state-recordings/seenone-feat-crystal-blakk-6</link>
+            <guid isPermaLink="false">4234582e-810c-4ac6-b699-e70908726031</guid>
+            <pubDate>Wed, 01 Jun 2016 18:42:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Major7 & Vertical Mode Vs Crystal Blakk - Pure Progressive Serial Killer (Lunatic Boy Bootleg) by Global State Recordings]]></title>
             <description><![CDATA[<article><h1>Major7 & Vertical Mode Vs Crystal Blakk - Pure Progressive Serial Killer (Lunatic Boy Bootleg) by Global State Recordings</h1><p>Amazing Psy track given a new lift with top class original vocals from Crystal Blakk & rubbed up by Lunatic Boy.... Buy the original version here... http://www.beatport.com/track/pure-progressive-original-mix/5052994</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c25f7b3747150e8bde353a280e1600614a590f9.jpg"></article>]]></description>
