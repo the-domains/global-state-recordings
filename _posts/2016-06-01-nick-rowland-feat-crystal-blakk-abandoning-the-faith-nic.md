@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://soundcloud.com/global-state-recordings/nick-rowland-feat-
 inLanguage: null
 keywords: []
 description: "Abandoning The Faith has been widely regarded as one of scene legend Nick Rowland's finest unreleased works & now it finally gets unleashed on the world in the form of two awesome mixes. Nick's original is as anthemic as you can get and adding the vocal of in demand vocalist Crystal Blakk has smashed it through the roof!"
-datePublished: '2016-06-01T23:05:00.105Z'
-dateModified: '2016-06-01T22:53:21.675Z'
+datePublished: '2016-06-01T23:07:11.656Z'
+dateModified: '2016-06-01T23:05:07.701Z'
 author:
   - name: Global State Recordings
     url: 'http://soundcloud.com/global-state-recordings'
@@ -58,7 +58,7 @@ publisher:
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-starred: true
+starred: false
 _type: AudioObject
 _context: 'http://schema.org'
 
