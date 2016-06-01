@@ -1,14 +1,29 @@
+name: Global State Recordings
+favicon: null
 layout_spectrum: 0.29100914928130805
 typography_spectrum: 0.8728797880467027
+title: Independent UK Trance Label
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
+  brandColors:
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
   brandStrength: 0.08894333033822477
   lightness: 0.6160114405211061
   saturation: 0.4560425023082644
   rhythmicContrast: 0.5603673555888236
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-name: Global State Recordings
+purpose: []
