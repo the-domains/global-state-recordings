@@ -1,20 +1,4 @@
-name: Global State Recordings
-favicon: null
-layout_spectrum: 0.98903
 typography_spectrum: 0.45959
-title: Independent UK Trance Label
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6600'
@@ -26,4 +10,22 @@ color:
   lightness: 0.6160114405211061
   saturation: 0.4560425023082644
   rhythmicContrast: 0.5603673555888236
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.98903
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Ollie Jaye
+name: Global State Recordings
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Music For The Discerning Dance Music Lover
 purpose: []
