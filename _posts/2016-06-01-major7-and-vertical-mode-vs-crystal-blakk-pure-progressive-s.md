@@ -1,16 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://soundcloud.com/global-state-recordings/major7vertical-mode-capital-monkey-vs-crystal-blakk-pure-progressive-serial-killer'
+inLanguage: null
+keywords: []
+description: 'Amazing Psy track given a new lift with top class original vocals from Crystal Blakk & rubbed up by Lunatic Boy.... Buy the original version here... http://www.beatport.com/track/pure-progressive-original-mix/5052994'
+datePublished: '2016-06-01T17:50:48.417Z'
+dateModified: '2016-06-01T17:50:10.381Z'
 author:
   - name: Global State Recordings
     url: 'http://soundcloud.com/global-state-recordings'
     avatar: {}
 related: []
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
-keywords: []
-description: 'Amazing Psy track given a new lift with top class original vocals from Crystal Blakk & rubbed up by Lunatic Boy.... Buy the original version here... http://www.beatport.com/track/pure-progressive-original-mix/5052994'
 app_links:
   - type: ios
     namespace: ai
@@ -48,15 +50,15 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/global-state-recordings/major7vertical-mode-capital-monkey-vs-crystal-blakk-pure-progressive-serial-killer'
 title: 'Major7 & Vertical Mode Vs Crystal Blakk - Pure Progressive Serial Killer (Lunatic Boy Bootleg) by Global State Recordings'
-datePublished: '2016-06-01T16:34:02.663Z'
-dateModified: '2016-06-01T16:33:28.649Z'
+authors: []
+publisher:
+  name: SoundCloud
+  domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 starred: false
 sourcePath: _posts/2016-06-01-major7-and-vertical-mode-vs-crystal-blakk-pure-progressive-s.md
-inFeed: true
-hasPage: false
-inNav: false
 _type: AudioObject
 _context: 'http://schema.org'
 
