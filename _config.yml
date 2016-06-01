@@ -1,31 +1,31 @@
-name: Global State Recordings
-favicon: null
-layout_spectrum: 0.513641320168972
-typography_spectrum: 0.7654761464800686
-title: Music For The Discerning Dance Music Lover
-author:
-  name: Ollie Jaye
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+typography_spectrum: 0.32759
+color:
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+  brandStrength: 0.25
+  lightness: 0.7433414070401341
+  saturation: 0.32523649325594306
+  rhythmicContrast: 0.02621616260148585
 opengraph:
   image: null
   type: null
   appId: '707685422641773'
-color:
-  brandColors:
-    - '#450003'
-    - '#5C0002'
-    - '#94090D'
-    - '#D40D12'
-    - '#FF1D23'
-  brandStrength: 0.6088897320441902
-  lightness: 0.43813702976331115
-  saturation: 0.5722666406072676
-  rhythmicContrast: 0.06974847172386944
+layout_spectrum: 0.7401161498855799
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Ollie Jaye
+name: Global State Recordings
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Music For The Discerning Dance Music Lover
 purpose: []
